@@ -1,0 +1,68 @@
+{
+    "es": {
+      "appName": "Agente en línea",
+      "welcomeMessage": "Te damos la bienvenida a esta simulación de entrevista migratoria. Aquí podrás practicar cómo sería tu interacción con un agente de migración real. Responde con claridad y sinceridad para recibir una evaluación y recomendaciones sobre tu posible ingreso al país. ¡Comencemos!",
+      "inputPlaceholder": "Escribir mensaje...",
+      "loadingMessage": "Cargando...",
+      "errorMessagePrefix": "Error:",
+      "typingMessage": "Escribiendo...",
+      "policyText": "Es posible que tu conversacion con el bot se grabe con propositos de calidad, revisa la",
+      "policyLinkText": "politica de privacidad",
+      "policyLink": "https://google.com",
+      "sendIcon": "fas fa-paper-plane",
+      "closeButton": "&times;",
+      "minimizeButton": {
+        "minimized": "▲",
+        "maximized": "▼"
+      },
+       "colors": {
+        "headerBackground": "#808285",
+        "headerText": "white",
+        "inputText": "#808285",
+        "aiIconBackground": "#808285",
+        "aiIconText": "white",
+        "userMessageBackground": "#808285",
+        "userMessageText": "white",
+        "botMessageBackground": "#808285",
+        "botMessageText": "white",
+        "inputBorder": "#ddd",
+        "inputBorderFocus": "#3C2665",
+        "inputPlaceholder": "#aaa",
+        "sendIcon": "#007bff",
+        "minimizeButtonHover": "#808285"
+      }
+    },
+    "en": {
+      "appName": "Online Agent",
+      "welcomeMessage": "Welcome to this immigration interview simulation. Here you can practice how your interaction with a real immigration agent would be.  Answer clearly and honestly to receive an evaluation and recommendations on your possible entry into the country. Let's begin!",
+      "inputPlaceholder": "Write a message...",
+      "loadingMessage": "Loading...",
+      "errorMessagePrefix": "Error:",
+      "typingMessage": "Typing...",
+      "policyText": "Your conversation with the bot may be recorded for quality purposes, review the",
+      "policyLinkText": "privacy policy",
+      "policyLink": "https://google.com",
+      "sendIcon": "fas fa-paper-plane",
+      "closeButton": "&times;",
+      "minimizeButton": {
+        "minimized": "▲",
+        "maximized": "▼"
+      },
+      "colors": {
+        "headerBackground": "#808285",
+        "headerText": "white",
+        "inputText": "#808285",
+        "aiIconBackground": "#808285",
+        "aiIconText": "white",
+        "userMessageBackground": "#808285",
+        "userMessageText": "white",
+        "botMessageBackground": "#808285",
+        "botMessageText": "white",
+        "inputBorder": "#ddd",
+        "inputBorderFocus": "#3C2665",
+        "inputPlaceholder": "#aaa",
+        "sendIcon": "#007bff",
+        "minimizeButtonHover": "#808285"
+      }
+    }
+  }
