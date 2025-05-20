@@ -1,6 +1,6 @@
 {
     "es": {
-      "appName": "Agente en línea",
+      "appName": "Admisso bot en línea",
       "welcomeMessage": "Bienvenido a esta simulación de entrevista migratoria.\nEstoy aquí para ayudarte con la entrevista de admisión a tu destino. Podrás practicar tus respuestas como si estuvieras interactuando con un agente de migración real.\nResponde con claridad y sinceridad para recibir una evaluación y recomendaciones sobre tu posible ingreso al país. ¡Comencemos!",
       "inputPlaceholder": "Escribir mensaje...",
       "loadingMessage": "Cargando...",
@@ -33,7 +33,7 @@
       }
     },
     "en": {
-      "appName": "Online Agent",
+      "appName": "Admisso bot online",
       "welcomeMessage": "Welcome to this immigration interview simulation.\nI’m here to help you prepare for your admission interview at your destination. You can practice your answers as if you were interacting with a real immigration officer.\nPlease respond clearly and honestly to receive an assessment and recommendations regarding your potential entry into the country. Let’s get started!",
       "inputPlaceholder": "Write a message...",
       "loadingMessage": "Loading...",
